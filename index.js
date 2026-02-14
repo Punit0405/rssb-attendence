@@ -54,7 +54,7 @@ const dataObject = {
 };
 
 // Constant variable for date filtering
-const filterDate = new Date('2026-01-18'); // You can change this date as needed
+const filterDate = new Date('2026-01-25'); // You can change this date as needed
 
 // Directory path for CSV files
 const attendecesDir = path.join(__dirname, 'Attendeces');
