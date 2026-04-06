@@ -4,12 +4,12 @@ const csv = require('csv-parser');
 
 const dataObject = {
     G01031: { name: 'Kamlesh Mulchandani', priority: 1 },
-    G02935: { name: 'Mukesh Pancholi', priority: 2 },
+    // G02935: { name: 'Mukesh Pancholi', priority: 2 },
     G03012: { name: 'Lalit Jamtani', priority: 3 },
     G00391: { name: 'Deep Rana', priority: 4 },
     G00132: { name: 'Asharam Yadav', priority: 5 },
     G00523: { name: 'Dinesh Dudhat', priority: 6 },
-    G00669: { name: 'Harsh Harwani', priority: 7 },
+    G00669: { name: 'Haresh Harwani', priority: 7 },
     G01245: { name: 'Laxman Ramchandani', priority: 8 },
     L02517: { name: 'Tanisha Dhanwani', priority: 9 },
     L02714: { name: 'Priya Patel', priority: 10 },
@@ -26,7 +26,7 @@ const dataObject = {
     L02956: { name: 'Anjali Gidwani', priority: 21 },
     G01887: { name: 'Rajesh Tewani', priority: 22 },
     G00912: { name: 'Jayesh Chauhan', priority: 23 },
-    L02826: { name: 'Rajkumar Gidwani', priority: 24 },
+    G03038: { name: 'Rajkumar Gidwani', priority: 24 },
     G01070: { name: 'Kanti Patel', priority: 25 },
     G00338: { name: 'Chandubhai Dodiyar', priority: 26 },
     L02749: { name: 'Sakshi Luhana', priority: 27 },
@@ -53,8 +53,24 @@ const dataObject = {
     L02946: { name: 'Bharti Wadhwani', priority: 48 },
 };
 
-// Constant variable for date filtering
-const filterDate = new Date('2026-01-25'); // You can change this date as needed
+// Constant variables for month filtering (year and month)
+const filterYear = 2026; // You can change this year as needed
+const filterMonth = 3;   // 1=Jan, 2=Feb, ... 12=Dec
+
+// Get all Sundays in the filtered month (as YYYY-MM-DD strings)
+function getSundaysInMonth(year, month) {
+    const sundays = [];
+    const date = new Date(Date.UTC(year, month - 1, 1));
+    while (date.getUTCMonth() === month - 1) {
+        if (date.getUTCDay() === 0) {
+            sundays.push(date.toISOString().split('T')[0]);
+        }
+        date.setUTCDate(date.getUTCDate() + 1);
+    }
+    return sundays;
+}
+
+const allSundays = getSundaysInMonth(filterYear, filterMonth);
 
 // Directory path for CSV files
 const attendecesDir = path.join(__dirname, 'Attendeces');
@@ -106,12 +122,15 @@ fs.readdir(attendecesDir, (err, files) => {
             .on('data', (data) => {
                 const { GRNO, date, Time, Entry } = data;
 
-                // Convert input date to Date object
-                const entryDate = new Date(date);
+                // Parse date parts directly from string (YYYY-MM-DD) to avoid timezone issues
+                const [y, m, d] = date.split('-').map(Number);
+                const entryDate = new Date(Date.UTC(y, m - 1, d));
 
-                // Only process records with matching GRNO in dataObject and exact date match
+                // Only process records with matching GRNO, matching month/year, and Sunday only
                 if (dataObject[GRNO] &&
-                    entryDate.toISOString().split('T')[0] === filterDate.toISOString().split('T')[0]) {
+                    y === filterYear &&
+                    m === filterMonth &&
+                    entryDate.getUTCDay() === 0) {
                     results.push({
                         GRNO,
                         name: dataObject[GRNO].name,
@@ -127,16 +146,50 @@ fs.readdir(attendecesDir, (err, files) => {
 
                 // When all files are processed
                 if (filesProcessed === csvFiles.length) {
-                    // Sort results based on priority
-                    results.sort((a, b) => a.priority - b.priority);
+                    // Group results by person (GRNO)
+                    const byPerson = {};
+                    results.forEach(r => {
+                        if (!byPerson[r.GRNO]) {
+                            byPerson[r.GRNO] = [];
+                        }
+                        byPerson[r.GRNO].push(r);
+                    });
 
-                    // Format output data
-                    const output = results.map(r =>
-                        `${r.GRNO}, ${r.name}, ${r.date}, ${r.time}, ${r.entry}, ${r.priority}`
-                    ).join('\n');
+                    // Build output for ALL persons in dataObject (sorted by priority)
+                    const allPersons = Object.entries(dataObject)
+                        .sort((a, b) => a[1].priority - b[1].priority);
+
+                    const outputLines = [];
+                    allPersons.forEach(([grno, info]) => {
+                        const personEntries = byPerson[grno] || [];
+
+                        outputLines.push(`\n--- ${grno}, ${info.name} ---`);
+
+                        // For each Sunday in the month, check if person has entries
+                        allSundays.forEach(sundayStr => {
+                            // Find entries for this person on this Sunday
+                            const dayEntries = personEntries.filter(r => r.date === sundayStr);
+
+                            if (dayEntries.length > 0) {
+                                // Sort: IN first, then OUT
+                                dayEntries.sort((a, b) => {
+                                    if (a.entry === 'IN' && b.entry !== 'IN') return -1;
+                                    if (a.entry !== 'IN' && b.entry === 'IN') return 1;
+                                    return 0;
+                                });
+                                dayEntries.forEach(r => {
+                                    outputLines.push(`${r.GRNO}, ${r.name}, ${r.date}, ${r.time}, ${r.entry}, ${r.priority}`);
+                                });
+                            } else {
+                                // Person was absent — mark as LEAVE
+                                outputLines.push(`${grno}, ${info.name}, ${sundayStr}, LEAVE, IN, ${info.priority}`);
+                                outputLines.push(`${grno}, ${info.name}, ${sundayStr}, LEAVE, OUT, ${info.priority}`);
+                            }
+                        });
+                    });
 
                     // Write results to output.txt
-                    fs.writeFileSync('output.txt', output);
+                    fs.writeFileSync('output.txt', outputLines.join('\n'));
                     console.log('Results have been written to output.txt');
                 }
             })

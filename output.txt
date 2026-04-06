@@ -1,0 +1,552 @@
+
+--- G01031, Kamlesh Mulchandani ---
+G01031, Kamlesh Mulchandani, 2026-03-01, 06:23:37, IN, 1
+G01031, Kamlesh Mulchandani, 2026-03-01, 11:05:8, OUT, 1
+G01031, Kamlesh Mulchandani, 2026-03-08, 06:20:51, IN, 1
+G01031, Kamlesh Mulchandani, 2026-03-08, 12:10:23, OUT, 1
+G01031, Kamlesh Mulchandani, 2026-03-15, 06:26:37, IN, 1
+G01031, Kamlesh Mulchandani, 2026-03-22, 06:22:8, IN, 1
+G01031, Kamlesh Mulchandani, 2026-03-29, 05:30:44, IN, 1
+G01031, Kamlesh Mulchandani, 2026-03-29, 11:27:28, OUT, 1
+
+--- G03012, Lalit Jamtani ---
+G03012, Lalit Jamtani, 2026-03-01, 07:42:41, IN, 3
+G03012, Lalit Jamtani, 2026-03-01, 12:09:19, OUT, 3
+G03012, Lalit Jamtani, 2026-03-08, 07:13:8, IN, 3
+G03012, Lalit Jamtani, 2026-03-08, 12:48:18, OUT, 3
+G03012, Lalit Jamtani, 2026-03-15, 07:00:35, IN, 3
+G03012, Lalit Jamtani, 2026-03-22, 07:18:7, IN, 3
+G03012, Lalit Jamtani, 2026-03-22, 12:21:26, OUT, 3
+G03012, Lalit Jamtani, 2026-03-29, 07:31:11, IN, 3
+G03012, Lalit Jamtani, 2026-03-29, 12:07:52, OUT, 3
+
+--- G00391, Deep Rana ---
+G00391, Deep Rana, 2026-03-01, 06:08:43, IN, 4
+G00391, Deep Rana, 2026-03-01, 11:14:13, OUT, 4
+G00391, Deep Rana, 2026-03-08, LEAVE, IN, 4
+G00391, Deep Rana, 2026-03-08, LEAVE, OUT, 4
+G00391, Deep Rana, 2026-03-15, 06:36:24, IN, 4
+G00391, Deep Rana, 2026-03-15, 11:41:13, OUT, 4
+G00391, Deep Rana, 2026-03-22, 06:40:50, IN, 4
+G00391, Deep Rana, 2026-03-22, 11:45:37, OUT, 4
+G00391, Deep Rana, 2026-03-29, LEAVE, IN, 4
+G00391, Deep Rana, 2026-03-29, LEAVE, OUT, 4
+
+--- G00132, Asharam Yadav ---
+G00132, Asharam Yadav, 2026-03-01, 07:33:17, IN, 5
+G00132, Asharam Yadav, 2026-03-01, 10:51:2, OUT, 5
+G00132, Asharam Yadav, 2026-03-08, LEAVE, IN, 5
+G00132, Asharam Yadav, 2026-03-08, LEAVE, OUT, 5
+G00132, Asharam Yadav, 2026-03-15, 07:24:21, IN, 5
+G00132, Asharam Yadav, 2026-03-15, 11:00:41, OUT, 5
+G00132, Asharam Yadav, 2026-03-22, 07:15:23, IN, 5
+G00132, Asharam Yadav, 2026-03-22, 11:01:21, OUT, 5
+G00132, Asharam Yadav, 2026-03-29, 07:24:54, IN, 5
+G00132, Asharam Yadav, 2026-03-29, 11:00:56, OUT, 5
+
+--- G00523, Dinesh Dudhat ---
+G00523, Dinesh Dudhat, 2026-03-01, 07:34:5, IN, 6
+G00523, Dinesh Dudhat, 2026-03-01, 10:50:56, OUT, 6
+G00523, Dinesh Dudhat, 2026-03-08, 07:23:13, IN, 6
+G00523, Dinesh Dudhat, 2026-03-08, 10:50:49, OUT, 6
+G00523, Dinesh Dudhat, 2026-03-15, 07:38:49, IN, 6
+G00523, Dinesh Dudhat, 2026-03-22, 07:33:59, IN, 6
+G00523, Dinesh Dudhat, 2026-03-22, 10:25:0, OUT, 6
+G00523, Dinesh Dudhat, 2026-03-29, 07:26:44, IN, 6
+G00523, Dinesh Dudhat, 2026-03-29, 10:58:56, OUT, 6
+
+--- G00669, Haresh Harwani ---
+G00669, Haresh Harwani, 2026-03-01, LEAVE, IN, 7
+G00669, Haresh Harwani, 2026-03-01, LEAVE, OUT, 7
+G00669, Haresh Harwani, 2026-03-08, LEAVE, IN, 7
+G00669, Haresh Harwani, 2026-03-08, LEAVE, OUT, 7
+G00669, Haresh Harwani, 2026-03-15, LEAVE, IN, 7
+G00669, Haresh Harwani, 2026-03-15, LEAVE, OUT, 7
+G00669, Haresh Harwani, 2026-03-22, LEAVE, IN, 7
+G00669, Haresh Harwani, 2026-03-22, LEAVE, OUT, 7
+G00669, Haresh Harwani, 2026-03-29, LEAVE, IN, 7
+G00669, Haresh Harwani, 2026-03-29, LEAVE, OUT, 7
+
+--- G01245, Laxman Ramchandani ---
+G01245, Laxman Ramchandani, 2026-03-01, LEAVE, IN, 8
+G01245, Laxman Ramchandani, 2026-03-01, LEAVE, OUT, 8
+G01245, Laxman Ramchandani, 2026-03-08, LEAVE, IN, 8
+G01245, Laxman Ramchandani, 2026-03-08, LEAVE, OUT, 8
+G01245, Laxman Ramchandani, 2026-03-15, LEAVE, IN, 8
+G01245, Laxman Ramchandani, 2026-03-15, LEAVE, OUT, 8
+G01245, Laxman Ramchandani, 2026-03-22, LEAVE, IN, 8
+G01245, Laxman Ramchandani, 2026-03-22, LEAVE, OUT, 8
+G01245, Laxman Ramchandani, 2026-03-29, LEAVE, IN, 8
+G01245, Laxman Ramchandani, 2026-03-29, LEAVE, OUT, 8
+
+--- L02517, Tanisha Dhanwani ---
+L02517, Tanisha Dhanwani, 2026-03-01, 06:00:57, IN, 9
+L02517, Tanisha Dhanwani, 2026-03-01, 11:06:53, OUT, 9
+L02517, Tanisha Dhanwani, 2026-03-08, 05:46:59, IN, 9
+L02517, Tanisha Dhanwani, 2026-03-08, 11:03:6, OUT, 9
+L02517, Tanisha Dhanwani, 2026-03-15, 06:00:0, IN, 9
+L02517, Tanisha Dhanwani, 2026-03-15, 11:05:16, OUT, 9
+L02517, Tanisha Dhanwani, 2026-03-22, 05:56:42, IN, 9
+L02517, Tanisha Dhanwani, 2026-03-22, 10:59:29, OUT, 9
+L02517, Tanisha Dhanwani, 2026-03-29, LEAVE, IN, 9
+L02517, Tanisha Dhanwani, 2026-03-29, LEAVE, OUT, 9
+
+--- L02714, Priya Patel ---
+L02714, Priya Patel, 2026-03-01, LEAVE, IN, 10
+L02714, Priya Patel, 2026-03-01, LEAVE, OUT, 10
+L02714, Priya Patel, 2026-03-08, 07:18:26, IN, 10
+L02714, Priya Patel, 2026-03-08, 12:23:20, OUT, 10
+L02714, Priya Patel, 2026-03-15, 07:29:48, IN, 10
+L02714, Priya Patel, 2026-03-15, 10:49:39, OUT, 10
+L02714, Priya Patel, 2026-03-22, 07:14:2, IN, 10
+L02714, Priya Patel, 2026-03-22, 10:55:2, OUT, 10
+L02714, Priya Patel, 2026-03-29, 06:59:28, IN, 10
+L02714, Priya Patel, 2026-03-29, 11:12:1, OUT, 10
+
+--- G00359, Chirag Chauhan ---
+G00359, Chirag Chauhan, 2026-03-01, 07:39:18, IN, 11
+G00359, Chirag Chauhan, 2026-03-01, 10:52:55, OUT, 11
+G00359, Chirag Chauhan, 2026-03-08, 07:23:2, IN, 11
+G00359, Chirag Chauhan, 2026-03-08, 10:50:37, OUT, 11
+G00359, Chirag Chauhan, 2026-03-15, LEAVE, IN, 11
+G00359, Chirag Chauhan, 2026-03-15, LEAVE, OUT, 11
+G00359, Chirag Chauhan, 2026-03-22, 07:31:8, IN, 11
+G00359, Chirag Chauhan, 2026-03-22, 11:08:47, OUT, 11
+G00359, Chirag Chauhan, 2026-03-29, 07:30:53, IN, 11
+G00359, Chirag Chauhan, 2026-03-29, 11:19:45, OUT, 11
+
+--- G01148, Kirtan Patel ---
+G01148, Kirtan Patel, 2026-03-01, LEAVE, IN, 12
+G01148, Kirtan Patel, 2026-03-01, LEAVE, OUT, 12
+G01148, Kirtan Patel, 2026-03-08, 07:23:8, IN, 12
+G01148, Kirtan Patel, 2026-03-08, 10:49:55, OUT, 12
+G01148, Kirtan Patel, 2026-03-15, 07:26:50, IN, 12
+G01148, Kirtan Patel, 2026-03-15, 10:36:12, OUT, 12
+G01148, Kirtan Patel, 2026-03-22, 07:29:42, IN, 12
+G01148, Kirtan Patel, 2026-03-22, 10:48:24, OUT, 12
+G01148, Kirtan Patel, 2026-03-29, 07:36:7, IN, 12
+G01148, Kirtan Patel, 2026-03-29, 11:05:52, OUT, 12
+
+--- G00402, Deepak Khemani ---
+G00402, Deepak Khemani, 2026-03-01, 07:43:3, IN, 13
+G00402, Deepak Khemani, 2026-03-01, 10:51:46, OUT, 13
+G00402, Deepak Khemani, 2026-03-08, 07:26:9, IN, 13
+G00402, Deepak Khemani, 2026-03-08, 11:00:32, OUT, 13
+G00402, Deepak Khemani, 2026-03-15, 07:42:52, IN, 13
+G00402, Deepak Khemani, 2026-03-15, 11:01:34, OUT, 13
+G00402, Deepak Khemani, 2026-03-22, LEAVE, IN, 13
+G00402, Deepak Khemani, 2026-03-22, LEAVE, OUT, 13
+G00402, Deepak Khemani, 2026-03-29, LEAVE, IN, 13
+G00402, Deepak Khemani, 2026-03-29, LEAVE, OUT, 13
+
+--- G02225, Subhash Sonvane ---
+G02225, Subhash Sonvane, 2026-03-01, 07:57:11, IN, 14
+G02225, Subhash Sonvane, 2026-03-01, 10:46:27, OUT, 14
+G02225, Subhash Sonvane, 2026-03-08, 07:46:9, IN, 14
+G02225, Subhash Sonvane, 2026-03-08, 10:51:35, OUT, 14
+G02225, Subhash Sonvane, 2026-03-15, 07:57:12, IN, 14
+G02225, Subhash Sonvane, 2026-03-15, 10:45:6, OUT, 14
+G02225, Subhash Sonvane, 2026-03-22, LEAVE, IN, 14
+G02225, Subhash Sonvane, 2026-03-22, LEAVE, OUT, 14
+G02225, Subhash Sonvane, 2026-03-29, 07:39:22, IN, 14
+G02225, Subhash Sonvane, 2026-03-29, 11:07:6, OUT, 14
+
+--- GN250686, Anita Rathod ---
+GN250686, Anita Rathod, 2026-03-01, 05:52:2, IN, 15
+GN250686, Anita Rathod, 2026-03-01, 10:52:47, OUT, 15
+GN250686, Anita Rathod, 2026-03-08, LEAVE, IN, 15
+GN250686, Anita Rathod, 2026-03-08, LEAVE, OUT, 15
+GN250686, Anita Rathod, 2026-03-15, LEAVE, IN, 15
+GN250686, Anita Rathod, 2026-03-15, LEAVE, OUT, 15
+GN250686, Anita Rathod, 2026-03-22, 06:05:32, IN, 15
+GN250686, Anita Rathod, 2026-03-22, 11:07:22, OUT, 15
+GN250686, Anita Rathod, 2026-03-29, 06:03:23, IN, 15
+GN250686, Anita Rathod, 2026-03-29, 11:09:21, OUT, 15
+
+--- G01908, Rajnish Yadav ---
+G01908, Rajnish Yadav, 2026-03-01, 07:04:13, IN, 16
+G01908, Rajnish Yadav, 2026-03-01, 11:14:1, OUT, 16
+G01908, Rajnish Yadav, 2026-03-08, 06:58:6, IN, 16
+G01908, Rajnish Yadav, 2026-03-08, 11:16:49, OUT, 16
+G01908, Rajnish Yadav, 2026-03-15, LEAVE, IN, 16
+G01908, Rajnish Yadav, 2026-03-15, LEAVE, OUT, 16
+G01908, Rajnish Yadav, 2026-03-22, 07:04:16, IN, 16
+G01908, Rajnish Yadav, 2026-03-22, 16:35:42, OUT, 16
+G01908, Rajnish Yadav, 2026-03-29, 07:08:1, IN, 16
+G01908, Rajnish Yadav, 2026-03-29, 11:31:29, OUT, 16
+
+--- G00249, Bharat Luhana ---
+G00249, Bharat Luhana, 2026-03-01, 07:14:35, IN, 17
+G00249, Bharat Luhana, 2026-03-01, 10:21:43, OUT, 17
+G00249, Bharat Luhana, 2026-03-08, LEAVE, IN, 17
+G00249, Bharat Luhana, 2026-03-08, LEAVE, OUT, 17
+G00249, Bharat Luhana, 2026-03-15, 07:02:50, IN, 17
+G00249, Bharat Luhana, 2026-03-22, 07:00:58, IN, 17
+G00249, Bharat Luhana, 2026-03-29, LEAVE, IN, 17
+G00249, Bharat Luhana, 2026-03-29, LEAVE, OUT, 17
+
+--- G01527, Naresh Bhambhani ---
+G01527, Naresh Bhambhani, 2026-03-01, LEAVE, IN, 18
+G01527, Naresh Bhambhani, 2026-03-01, LEAVE, OUT, 18
+G01527, Naresh Bhambhani, 2026-03-08, 07:49:11, IN, 18
+G01527, Naresh Bhambhani, 2026-03-08, 11:15:10, OUT, 18
+G01527, Naresh Bhambhani, 2026-03-15, 07:54:28, IN, 18
+G01527, Naresh Bhambhani, 2026-03-15, 11:00:32, OUT, 18
+G01527, Naresh Bhambhani, 2026-03-22, 07:38:21, IN, 18
+G01527, Naresh Bhambhani, 2026-03-29, 07:30:24, IN, 18
+G01527, Naresh Bhambhani, 2026-03-29, 11:10:34, OUT, 18
+
+--- L01730, Renu Rajput ---
+L01730, Renu Rajput, 2026-03-01, 06:32:32, IN, 19
+L01730, Renu Rajput, 2026-03-01, 11:36:8, OUT, 19
+L01730, Renu Rajput, 2026-03-08, 06:23:21, IN, 19
+L01730, Renu Rajput, 2026-03-08, 11:27:16, OUT, 19
+L01730, Renu Rajput, 2026-03-15, 06:22:12, IN, 19
+L01730, Renu Rajput, 2026-03-15, 11:32:4, OUT, 19
+L01730, Renu Rajput, 2026-03-22, 06:19:14, IN, 19
+L01730, Renu Rajput, 2026-03-22, 11:35:33, OUT, 19
+L01730, Renu Rajput, 2026-03-29, 06:21:14, IN, 19
+L01730, Renu Rajput, 2026-03-29, 11:33:41, OUT, 19
+
+--- L00134, Beena Rana ---
+L00134, Beena Rana, 2026-03-01, 06:37:57, IN, 20
+L00134, Beena Rana, 2026-03-01, 10:54:30, OUT, 20
+L00134, Beena Rana, 2026-03-08, 06:40:3, IN, 20
+L00134, Beena Rana, 2026-03-08, 13:44:18, OUT, 20
+L00134, Beena Rana, 2026-03-15, 06:34:24, IN, 20
+L00134, Beena Rana, 2026-03-15, 11:40:6, OUT, 20
+L00134, Beena Rana, 2026-03-22, 07:12:25, IN, 20
+L00134, Beena Rana, 2026-03-22, 10:27:4, OUT, 20
+L00134, Beena Rana, 2026-03-29, 06:41:31, IN, 20
+L00134, Beena Rana, 2026-03-29, 12:01:16, OUT, 20
+
+--- L02956, Anjali Gidwani ---
+L02956, Anjali Gidwani, 2026-03-01, LEAVE, IN, 21
+L02956, Anjali Gidwani, 2026-03-01, LEAVE, OUT, 21
+L02956, Anjali Gidwani, 2026-03-08, 07:09:40, IN, 21
+L02956, Anjali Gidwani, 2026-03-08, 10:30:14, OUT, 21
+L02956, Anjali Gidwani, 2026-03-15, 07:43:0, IN, 21
+L02956, Anjali Gidwani, 2026-03-15, 10:47:20, OUT, 21
+L02956, Anjali Gidwani, 2026-03-22, 07:53:27, IN, 21
+L02956, Anjali Gidwani, 2026-03-22, 10:32:53, OUT, 21
+L02956, Anjali Gidwani, 2026-03-29, LEAVE, IN, 21
+L02956, Anjali Gidwani, 2026-03-29, LEAVE, OUT, 21
+
+--- G01887, Rajesh Tewani ---
+G01887, Rajesh Tewani, 2026-03-01, 06:14:8, IN, 22
+G01887, Rajesh Tewani, 2026-03-01, 10:20:6, OUT, 22
+G01887, Rajesh Tewani, 2026-03-08, LEAVE, IN, 22
+G01887, Rajesh Tewani, 2026-03-08, LEAVE, OUT, 22
+G01887, Rajesh Tewani, 2026-03-15, 06:11:37, IN, 22
+G01887, Rajesh Tewani, 2026-03-15, 10:29:36, OUT, 22
+G01887, Rajesh Tewani, 2026-03-22, 06:07:50, IN, 22
+G01887, Rajesh Tewani, 2026-03-22, 10:31:48, OUT, 22
+G01887, Rajesh Tewani, 2026-03-29, 06:09:18, IN, 22
+G01887, Rajesh Tewani, 2026-03-29, 10:46:27, OUT, 22
+
+--- G00912, Jayesh Chauhan ---
+G00912, Jayesh Chauhan, 2026-03-01, 06:17:15, IN, 23
+G00912, Jayesh Chauhan, 2026-03-01, 10:21:37, OUT, 23
+G00912, Jayesh Chauhan, 2026-03-08, LEAVE, IN, 23
+G00912, Jayesh Chauhan, 2026-03-08, LEAVE, OUT, 23
+G00912, Jayesh Chauhan, 2026-03-15, LEAVE, IN, 23
+G00912, Jayesh Chauhan, 2026-03-15, LEAVE, OUT, 23
+G00912, Jayesh Chauhan, 2026-03-22, LEAVE, IN, 23
+G00912, Jayesh Chauhan, 2026-03-22, LEAVE, OUT, 23
+G00912, Jayesh Chauhan, 2026-03-29, LEAVE, IN, 23
+G00912, Jayesh Chauhan, 2026-03-29, LEAVE, OUT, 23
+
+--- G03038, Rajkumar Gidwani ---
+G03038, Rajkumar Gidwani, 2026-03-01, 06:28:34, IN, 24
+G03038, Rajkumar Gidwani, 2026-03-01, 11:30:48, OUT, 24
+G03038, Rajkumar Gidwani, 2026-03-08, 06:55:4, IN, 24
+G03038, Rajkumar Gidwani, 2026-03-08, 12:03:6, OUT, 24
+G03038, Rajkumar Gidwani, 2026-03-15, 06:31:18, IN, 24
+G03038, Rajkumar Gidwani, 2026-03-15, 11:34:22, OUT, 24
+G03038, Rajkumar Gidwani, 2026-03-22, 06:44:30, IN, 24
+G03038, Rajkumar Gidwani, 2026-03-22, 11:45:26, OUT, 24
+G03038, Rajkumar Gidwani, 2026-03-29, 06:21:7, IN, 24
+G03038, Rajkumar Gidwani, 2026-03-29, 11:39:0, OUT, 24
+
+--- G01070, Kanti Patel ---
+G01070, Kanti Patel, 2026-03-01, 06:32:12, IN, 25
+G01070, Kanti Patel, 2026-03-01, 10:37:5, OUT, 25
+G01070, Kanti Patel, 2026-03-08, LEAVE, IN, 25
+G01070, Kanti Patel, 2026-03-08, LEAVE, OUT, 25
+G01070, Kanti Patel, 2026-03-15, LEAVE, IN, 25
+G01070, Kanti Patel, 2026-03-15, LEAVE, OUT, 25
+G01070, Kanti Patel, 2026-03-22, 05:16:26, IN, 25
+G01070, Kanti Patel, 2026-03-22, 10:37:54, OUT, 25
+G01070, Kanti Patel, 2026-03-29, LEAVE, IN, 25
+G01070, Kanti Patel, 2026-03-29, LEAVE, OUT, 25
+
+--- G00338, Chandubhai Dodiyar ---
+G00338, Chandubhai Dodiyar, 2026-03-01, 07:38:33, IN, 26
+G00338, Chandubhai Dodiyar, 2026-03-01, 10:47:53, OUT, 26
+G00338, Chandubhai Dodiyar, 2026-03-08, 07:05:3, IN, 26
+G00338, Chandubhai Dodiyar, 2026-03-08, 11:08:23, OUT, 26
+G00338, Chandubhai Dodiyar, 2026-03-15, 07:20:51, IN, 26
+G00338, Chandubhai Dodiyar, 2026-03-15, 11:14:12, OUT, 26
+G00338, Chandubhai Dodiyar, 2026-03-22, 07:45:46, IN, 26
+G00338, Chandubhai Dodiyar, 2026-03-22, 17:29:14, OUT, 26
+G00338, Chandubhai Dodiyar, 2026-03-29, 06:50:21, IN, 26
+G00338, Chandubhai Dodiyar, 2026-03-29, 11:58:44, OUT, 26
+
+--- L02749, Sakshi Luhana ---
+L02749, Sakshi Luhana, 2026-03-01, 07:16:4, IN, 27
+L02749, Sakshi Luhana, 2026-03-01, 10:22:57, OUT, 27
+L02749, Sakshi Luhana, 2026-03-08, 06:54:26, IN, 27
+L02749, Sakshi Luhana, 2026-03-08, 13:11:10, OUT, 27
+L02749, Sakshi Luhana, 2026-03-15, 07:40:50, IN, 27
+L02749, Sakshi Luhana, 2026-03-15, 10:40:8, OUT, 27
+L02749, Sakshi Luhana, 2026-03-22, 07:44:48, IN, 27
+L02749, Sakshi Luhana, 2026-03-22, 10:48:40, OUT, 27
+L02749, Sakshi Luhana, 2026-03-29, LEAVE, IN, 27
+L02749, Sakshi Luhana, 2026-03-29, LEAVE, OUT, 27
+
+--- L00169, Bharti Yadav ---
+L00169, Bharti Yadav, 2026-03-01, LEAVE, IN, 28
+L00169, Bharti Yadav, 2026-03-01, LEAVE, OUT, 28
+L00169, Bharti Yadav, 2026-03-08, LEAVE, IN, 28
+L00169, Bharti Yadav, 2026-03-08, LEAVE, OUT, 28
+L00169, Bharti Yadav, 2026-03-15, 07:32:31, IN, 28
+L00169, Bharti Yadav, 2026-03-15, 10:54:17, OUT, 28
+L00169, Bharti Yadav, 2026-03-22, LEAVE, IN, 28
+L00169, Bharti Yadav, 2026-03-22, LEAVE, OUT, 28
+L00169, Bharti Yadav, 2026-03-29, LEAVE, IN, 28
+L00169, Bharti Yadav, 2026-03-29, LEAVE, OUT, 28
+
+--- G02029, Ratanlal Meena ---
+G02029, Ratanlal Meena, 2026-03-01, LEAVE, IN, 29
+G02029, Ratanlal Meena, 2026-03-01, LEAVE, OUT, 29
+G02029, Ratanlal Meena, 2026-03-08, LEAVE, IN, 29
+G02029, Ratanlal Meena, 2026-03-08, LEAVE, OUT, 29
+G02029, Ratanlal Meena, 2026-03-15, 07:50:43, IN, 29
+G02029, Ratanlal Meena, 2026-03-15, 10:53:27, OUT, 29
+G02029, Ratanlal Meena, 2026-03-22, 07:45:32, IN, 29
+G02029, Ratanlal Meena, 2026-03-22, 10:40:57, OUT, 29
+G02029, Ratanlal Meena, 2026-03-29, LEAVE, IN, 29
+G02029, Ratanlal Meena, 2026-03-29, LEAVE, OUT, 29
+
+--- M03787, Rasul Goraji ---
+M03787, Rasul Goraji, 2026-03-01, 07:11:31, IN, 30
+M03787, Rasul Goraji, 2026-03-01, 11:03:26, OUT, 30
+M03787, Rasul Goraji, 2026-03-08, LEAVE, IN, 30
+M03787, Rasul Goraji, 2026-03-08, LEAVE, OUT, 30
+M03787, Rasul Goraji, 2026-03-15, LEAVE, IN, 30
+M03787, Rasul Goraji, 2026-03-15, LEAVE, OUT, 30
+M03787, Rasul Goraji, 2026-03-22, LEAVE, IN, 30
+M03787, Rasul Goraji, 2026-03-22, LEAVE, OUT, 30
+M03787, Rasul Goraji, 2026-03-29, LEAVE, IN, 30
+M03787, Rasul Goraji, 2026-03-29, LEAVE, OUT, 30
+
+--- L00435, Ganga Prajapati ---
+L00435, Ganga Prajapati, 2026-03-01, LEAVE, IN, 31
+L00435, Ganga Prajapati, 2026-03-01, LEAVE, OUT, 31
+L00435, Ganga Prajapati, 2026-03-08, 07:02:13, IN, 31
+L00435, Ganga Prajapati, 2026-03-08, 10:30:19, OUT, 31
+L00435, Ganga Prajapati, 2026-03-15, LEAVE, IN, 31
+L00435, Ganga Prajapati, 2026-03-15, LEAVE, OUT, 31
+L00435, Ganga Prajapati, 2026-03-22, 07:23:28, IN, 31
+L00435, Ganga Prajapati, 2026-03-22, 10:46:30, OUT, 31
+L00435, Ganga Prajapati, 2026-03-29, 06:34:23, IN, 31
+L00435, Ganga Prajapati, 2026-03-29, 10:57:25, OUT, 31
+
+--- G02412, Vijay Ramchandani ---
+G02412, Vijay Ramchandani, 2026-03-01, 07:59:47, IN, 32
+G02412, Vijay Ramchandani, 2026-03-01, 11:03:41, OUT, 32
+G02412, Vijay Ramchandani, 2026-03-08, 07:52:45, IN, 32
+G02412, Vijay Ramchandani, 2026-03-08, 11:24:23, OUT, 32
+G02412, Vijay Ramchandani, 2026-03-15, 07:57:17, IN, 32
+G02412, Vijay Ramchandani, 2026-03-15, 11:16:12, OUT, 32
+G02412, Vijay Ramchandani, 2026-03-22, 07:50:21, IN, 32
+G02412, Vijay Ramchandani, 2026-03-22, 11:13:21, OUT, 32
+G02412, Vijay Ramchandani, 2026-03-29, 07:47:5, IN, 32
+G02412, Vijay Ramchandani, 2026-03-29, 11:25:40, OUT, 32
+
+--- G01043, Kamlesh Virwani ---
+G01043, Kamlesh Virwani, 2026-03-01, 07:12:57, IN, 33
+G01043, Kamlesh Virwani, 2026-03-01, 11:03:49, OUT, 33
+G01043, Kamlesh Virwani, 2026-03-08, 07:35:32, IN, 33
+G01043, Kamlesh Virwani, 2026-03-08, 11:24:2, OUT, 33
+G01043, Kamlesh Virwani, 2026-03-15, 07:01:20, IN, 33
+G01043, Kamlesh Virwani, 2026-03-15, 11:15:55, OUT, 33
+G01043, Kamlesh Virwani, 2026-03-22, LEAVE, IN, 33
+G01043, Kamlesh Virwani, 2026-03-22, LEAVE, OUT, 33
+G01043, Kamlesh Virwani, 2026-03-29, 07:04:34, IN, 33
+G01043, Kamlesh Virwani, 2026-03-29, 11:25:21, OUT, 33
+
+--- L01320, Nainaben Panchal ---
+L01320, Nainaben Panchal, 2026-03-01, 07:36:1, IN, 34
+L01320, Nainaben Panchal, 2026-03-01, 11:02:46, OUT, 34
+L01320, Nainaben Panchal, 2026-03-08, 07:25:0, IN, 34
+L01320, Nainaben Panchal, 2026-03-08, 10:57:36, OUT, 34
+L01320, Nainaben Panchal, 2026-03-15, 07:09:21, IN, 34
+L01320, Nainaben Panchal, 2026-03-15, 11:24:28, OUT, 34
+L01320, Nainaben Panchal, 2026-03-22, LEAVE, IN, 34
+L01320, Nainaben Panchal, 2026-03-22, LEAVE, OUT, 34
+L01320, Nainaben Panchal, 2026-03-29, LEAVE, IN, 34
+L01320, Nainaben Panchal, 2026-03-29, LEAVE, OUT, 34
+
+--- L00476, Geeta Patel ---
+L00476, Geeta Patel, 2026-03-01, 06:38:30, IN, 35
+L00476, Geeta Patel, 2026-03-01, 11:42:5, OUT, 35
+L00476, Geeta Patel, 2026-03-08, 06:18:53, IN, 35
+L00476, Geeta Patel, 2026-03-08, 11:24:29, OUT, 35
+L00476, Geeta Patel, 2026-03-15, 06:20:43, IN, 35
+L00476, Geeta Patel, 2026-03-15, 11:22:28, OUT, 35
+L00476, Geeta Patel, 2026-03-22, LEAVE, IN, 35
+L00476, Geeta Patel, 2026-03-22, LEAVE, OUT, 35
+L00476, Geeta Patel, 2026-03-29, LEAVE, IN, 35
+L00476, Geeta Patel, 2026-03-29, LEAVE, OUT, 35
+
+--- G00873, Jaman Sainani ---
+G00873, Jaman Sainani, 2026-03-01, 05:45:11, IN, 36
+G00873, Jaman Sainani, 2026-03-01, 11:10:17, OUT, 36
+G00873, Jaman Sainani, 2026-03-08, 05:45:53, IN, 36
+G00873, Jaman Sainani, 2026-03-08, 11:22:55, OUT, 36
+G00873, Jaman Sainani, 2026-03-15, 05:47:11, IN, 36
+G00873, Jaman Sainani, 2026-03-15, 11:17:1, OUT, 36
+G00873, Jaman Sainani, 2026-03-22, 05:51:2, IN, 36
+G00873, Jaman Sainani, 2026-03-22, 11:19:29, OUT, 36
+G00873, Jaman Sainani, 2026-03-29, 05:15:51, IN, 36
+G00873, Jaman Sainani, 2026-03-29, 11:25:54, OUT, 36
+
+--- G00018, Ajay Sadhwani ---
+G00018, Ajay Sadhwani, 2026-03-01, 05:45:23, IN, 37
+G00018, Ajay Sadhwani, 2026-03-01, 11:11:8, OUT, 37
+G00018, Ajay Sadhwani, 2026-03-08, 05:07:35, IN, 37
+G00018, Ajay Sadhwani, 2026-03-08, 10:21:12, OUT, 37
+G00018, Ajay Sadhwani, 2026-03-15, 05:47:33, IN, 37
+G00018, Ajay Sadhwani, 2026-03-15, 11:10:27, OUT, 37
+G00018, Ajay Sadhwani, 2026-03-22, 05:50:20, IN, 37
+G00018, Ajay Sadhwani, 2026-03-29, 05:15:24, IN, 37
+
+--- G00025, Akash Paryani ---
+G00025, Akash Paryani, 2026-03-01, 06:23:27, IN, 38
+G00025, Akash Paryani, 2026-03-01, 11:06:25, OUT, 38
+G00025, Akash Paryani, 2026-03-08, 06:20:56, IN, 38
+G00025, Akash Paryani, 2026-03-08, 12:10:9, OUT, 38
+G00025, Akash Paryani, 2026-03-15, 06:24:33, IN, 38
+G00025, Akash Paryani, 2026-03-22, LEAVE, IN, 38
+G00025, Akash Paryani, 2026-03-22, LEAVE, OUT, 38
+G00025, Akash Paryani, 2026-03-29, LEAVE, IN, 38
+G00025, Akash Paryani, 2026-03-29, LEAVE, OUT, 38
+
+--- G01443, Mukesh Bhagdev ---
+G01443, Mukesh Bhagdev, 2026-03-01, 06:23:32, IN, 39
+G01443, Mukesh Bhagdev, 2026-03-01, 11:06:18, OUT, 39
+G01443, Mukesh Bhagdev, 2026-03-08, 06:21:9, IN, 39
+G01443, Mukesh Bhagdev, 2026-03-08, 12:10:14, OUT, 39
+G01443, Mukesh Bhagdev, 2026-03-15, 06:24:46, IN, 39
+G01443, Mukesh Bhagdev, 2026-03-22, 06:22:13, IN, 39
+G01443, Mukesh Bhagdev, 2026-03-29, 05:30:58, IN, 39
+G01443, Mukesh Bhagdev, 2026-03-29, 11:27:23, OUT, 39
+
+--- G03222, Chirag Lalwani ---
+G03222, Chirag Lalwani, 2026-03-01, 06:00:35, IN, 40
+G03222, Chirag Lalwani, 2026-03-01, 11:26:32, OUT, 40
+G03222, Chirag Lalwani, 2026-03-08, 05:52:13, IN, 40
+G03222, Chirag Lalwani, 2026-03-08, 11:55:11, OUT, 40
+G03222, Chirag Lalwani, 2026-03-15, 05:47:1, IN, 40
+G03222, Chirag Lalwani, 2026-03-15, 11:39:48, OUT, 40
+G03222, Chirag Lalwani, 2026-03-22, 05:50:1, IN, 40
+G03222, Chirag Lalwani, 2026-03-22, 11:32:52, OUT, 40
+G03222, Chirag Lalwani, 2026-03-29, 05:16:15, IN, 40
+G03222, Chirag Lalwani, 2026-03-29, 11:26:26, OUT, 40
+
+--- G01629, Pankaj Malkani ---
+G01629, Pankaj Malkani, 2026-03-01, 07:26:43, IN, 41
+G01629, Pankaj Malkani, 2026-03-01, 10:55:51, OUT, 41
+G01629, Pankaj Malkani, 2026-03-08, 07:29:1, IN, 41
+G01629, Pankaj Malkani, 2026-03-08, 10:48:23, OUT, 41
+G01629, Pankaj Malkani, 2026-03-15, 07:13:33, IN, 41
+G01629, Pankaj Malkani, 2026-03-15, 10:48:25, OUT, 41
+G01629, Pankaj Malkani, 2026-03-22, 07:28:16, IN, 41
+G01629, Pankaj Malkani, 2026-03-22, 10:47:47, OUT, 41
+G01629, Pankaj Malkani, 2026-03-29, 07:16:11, IN, 41
+
+--- G01028, Kamlesh Malkani ---
+G01028, Kamlesh Malkani, 2026-03-01, 07:45:6, IN, 42
+G01028, Kamlesh Malkani, 2026-03-01, 10:46:11, OUT, 42
+G01028, Kamlesh Malkani, 2026-03-08, 07:42:40, IN, 42
+G01028, Kamlesh Malkani, 2026-03-08, 07:42:25, IN, 42
+G01028, Kamlesh Malkani, 2026-03-08, 11:00:8, OUT, 42
+G01028, Kamlesh Malkani, 2026-03-15, 07:46:59, IN, 42
+G01028, Kamlesh Malkani, 2026-03-15, 10:51:39, OUT, 42
+G01028, Kamlesh Malkani, 2026-03-22, 07:43:4, IN, 42
+G01028, Kamlesh Malkani, 2026-03-22, 10:55:11, OUT, 42
+G01028, Kamlesh Malkani, 2026-03-29, 07:48:30, IN, 42
+G01028, Kamlesh Malkani, 2026-03-29, 11:14:29, OUT, 42
+
+--- G00866, Jaykishan Sangtani ---
+G00866, Jaykishan Sangtani, 2026-03-01, 07:21:29, IN, 43
+G00866, Jaykishan Sangtani, 2026-03-01, 10:25:6, OUT, 43
+G00866, Jaykishan Sangtani, 2026-03-08, 07:07:7, IN, 43
+G00866, Jaykishan Sangtani, 2026-03-08, 10:23:1, OUT, 43
+G00866, Jaykishan Sangtani, 2026-03-15, 07:17:56, IN, 43
+G00866, Jaykishan Sangtani, 2026-03-15, 10:30:49, OUT, 43
+G00866, Jaykishan Sangtani, 2026-03-22, 07:27:32, IN, 43
+G00866, Jaykishan Sangtani, 2026-03-22, 10:32:12, OUT, 43
+G00866, Jaykishan Sangtani, 2026-03-29, 07:16:18, IN, 43
+G00866, Jaykishan Sangtani, 2026-03-29, 10:37:34, OUT, 43
+
+--- G00740, Hemant Jaisinghani ---
+G00740, Hemant Jaisinghani, 2026-03-01, 07:39:33, IN, 44
+G00740, Hemant Jaisinghani, 2026-03-01, 10:42:36, OUT, 44
+G00740, Hemant Jaisinghani, 2026-03-08, 07:33:15, IN, 44
+G00740, Hemant Jaisinghani, 2026-03-08, 10:43:28, OUT, 44
+G00740, Hemant Jaisinghani, 2026-03-15, LEAVE, IN, 44
+G00740, Hemant Jaisinghani, 2026-03-15, LEAVE, OUT, 44
+G00740, Hemant Jaisinghani, 2026-03-22, 07:33:9, IN, 44
+G00740, Hemant Jaisinghani, 2026-03-22, 10:40:0, OUT, 44
+G00740, Hemant Jaisinghani, 2026-03-22, 10:40:10, OUT, 44
+G00740, Hemant Jaisinghani, 2026-03-29, 07:30:29, IN, 44
+G00740, Hemant Jaisinghani, 2026-03-29, 10:41:31, OUT, 44
+
+--- G02298, Suresh Gyanchandani ---
+G02298, Suresh Gyanchandani, 2026-03-01, 07:12:43, IN, 45
+G02298, Suresh Gyanchandani, 2026-03-01, 10:42:46, OUT, 45
+G02298, Suresh Gyanchandani, 2026-03-08, 07:02:31, IN, 45
+G02298, Suresh Gyanchandani, 2026-03-15, 06:59:40, IN, 45
+G02298, Suresh Gyanchandani, 2026-03-15, 10:43:48, OUT, 45
+G02298, Suresh Gyanchandani, 2026-03-22, 06:42:14, IN, 45
+G02298, Suresh Gyanchandani, 2026-03-22, 10:26:55, OUT, 45
+G02298, Suresh Gyanchandani, 2026-03-29, 07:17:50, IN, 45
+G02298, Suresh Gyanchandani, 2026-03-29, 10:56:20, OUT, 45
+
+--- G01421, Mohan Das Sukhvani ---
+G01421, Mohan Das Sukhvani, 2026-03-01, 06:23:21, IN, 46
+G01421, Mohan Das Sukhvani, 2026-03-01, 10:20:0, OUT, 46
+G01421, Mohan Das Sukhvani, 2026-03-08, 06:21:14, IN, 46
+G01421, Mohan Das Sukhvani, 2026-03-08, 10:19:20, OUT, 46
+G01421, Mohan Das Sukhvani, 2026-03-15, 06:23:31, IN, 46
+G01421, Mohan Das Sukhvani, 2026-03-15, 10:22:11, OUT, 46
+G01421, Mohan Das Sukhvani, 2026-03-22, LEAVE, IN, 46
+G01421, Mohan Das Sukhvani, 2026-03-22, LEAVE, OUT, 46
+G01421, Mohan Das Sukhvani, 2026-03-29, LEAVE, IN, 46
+G01421, Mohan Das Sukhvani, 2026-03-29, LEAVE, OUT, 46
+
+--- G01224, Lalit Bherwani ---
+G01224, Lalit Bherwani, 2026-03-01, 06:34:43, IN, 47
+G01224, Lalit Bherwani, 2026-03-01, 11:43:18, OUT, 47
+G01224, Lalit Bherwani, 2026-03-08, 06:14:24, IN, 47
+G01224, Lalit Bherwani, 2026-03-08, 11:17:53, OUT, 47
+G01224, Lalit Bherwani, 2026-03-15, 06:24:54, IN, 47
+G01224, Lalit Bherwani, 2026-03-15, 11:25:58, OUT, 47
+G01224, Lalit Bherwani, 2026-03-22, LEAVE, IN, 47
+G01224, Lalit Bherwani, 2026-03-22, LEAVE, OUT, 47
+G01224, Lalit Bherwani, 2026-03-29, 06:14:40, IN, 47
+G01224, Lalit Bherwani, 2026-03-29, 11:20:34, OUT, 47
+
+--- L02946, Bharti Wadhwani ---
+L02946, Bharti Wadhwani, 2026-03-01, 07:33:40, IN, 48
+L02946, Bharti Wadhwani, 2026-03-01, 10:42:3, OUT, 48
+L02946, Bharti Wadhwani, 2026-03-08, 07:26:21, IN, 48
+L02946, Bharti Wadhwani, 2026-03-08, 10:43:23, OUT, 48
+L02946, Bharti Wadhwani, 2026-03-15, 07:24:29, IN, 48
+L02946, Bharti Wadhwani, 2026-03-15, 10:54:45, OUT, 48
+L02946, Bharti Wadhwani, 2026-03-22, 07:23:32, IN, 48
+L02946, Bharti Wadhwani, 2026-03-22, 10:56:18, OUT, 48
+L02946, Bharti Wadhwani, 2026-03-29, 07:32:33, IN, 48
+L02946, Bharti Wadhwani, 2026-03-29, 11:04:43, OUT, 48
